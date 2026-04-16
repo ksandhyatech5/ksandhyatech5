@@ -10,14 +10,7 @@
 🎯 Goal: Become a highly skilled Software Engineer with strong DevOps expertise<br>
 </p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=dracula" height="150"/>
-</div>
-
-###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
